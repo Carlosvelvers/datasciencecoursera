@@ -1,6 +1,6 @@
 ---
 title: "HelloWorld"
-output: pdf_document
+output: Mardown File
 ---
 
 
